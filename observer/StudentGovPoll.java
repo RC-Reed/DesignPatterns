@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 
 /**
+ * @author Robert Reed
  * Represents the student government poll.
  */
 public class StudentGovPoll implements Subject {

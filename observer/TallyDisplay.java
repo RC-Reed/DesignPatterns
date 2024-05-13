@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 
 /**
+ * @author Robert Reed
  * Display observer that shows the current tallies of the votes.
  */
 public class TallyDisplay implements Observer {

@@ -1,5 +1,6 @@
 
 /**
+ * @author Robert Reed
  * Represents a candidate in the student government poll.
  */
 public class Candidate {

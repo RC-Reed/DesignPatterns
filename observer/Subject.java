@@ -1,5 +1,6 @@
 
 /**
+ * @author Robert Reed
  * The subject interface for the observer pattern.
  */
 public interface Subject {
