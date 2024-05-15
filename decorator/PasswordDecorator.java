@@ -1,4 +1,5 @@
 /**
+ * @author Robert Reed
  * Abstract decorator class extending Password to allow for additional modifications to the password.
  */
 public abstract class PasswordDecorator extends Password {

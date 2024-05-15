@@ -1,4 +1,5 @@
 /**
+ * @author Robert Reed
  * Decorator that randomly changes the casing of each letter in the password.
  */
 public class RandomCasing extends PasswordDecorator {

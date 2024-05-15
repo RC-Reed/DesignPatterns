@@ -1,4 +1,5 @@
 /**
+ * @author Robert Reed
  * Concrete implementation of Password that generates an easy-to-read password.
  * This class replaces spaces with dashes and appends a random number between 0 and 100.
  */

@@ -1,4 +1,5 @@
 /**
+ * @author Robert Reed
  * Abstract class representing the base component in the Decorator Design Pattern for password generation.
  */
 public abstract class Password {

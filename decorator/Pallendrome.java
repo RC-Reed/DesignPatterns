@@ -1,4 +1,5 @@
 /**
+ * @author Robert Reed
  * Decorator that appends the reverse of the current password to itself.
  */
 public class Pallendrome extends PasswordDecorator {

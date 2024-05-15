@@ -1,4 +1,5 @@
 /**
+ * @author Robert Reed
  * Decorator that adds a special character after each letter in the password randomly.
  */
 public class SpecialChars extends PasswordDecorator {
