@@ -1,6 +1,7 @@
 import java.util.ArrayList;  // Import the ArrayList class
 
 /**
+ * @author Robert Reed
  * The MusicBox class represents a music box that can play songs in different languages.
  * It uses the State design pattern to change its behavior based on its current state.
  */

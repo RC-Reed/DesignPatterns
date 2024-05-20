@@ -7,6 +7,7 @@ public class SpanishState implements State {
     private MusicBox musicBox;
 
     /**
+     * @author Robert Reed
      * Constructs a SpanishState for the given MusicBox.
      * 
      * @param box the MusicBox associated with this state
